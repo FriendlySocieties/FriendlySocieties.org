@@ -1,0 +1,82 @@
+html, body {
+  background-color: #eee !important;
+                /* footer too! */
+  background-image: url("../images/background.png") !important;
+}
+
+#navbar #header-title,
+.title {
+  font-family: 'Liberation Sans Narrow', 'Liberation-Sans-Narrow', 'Arial Narrow';
+  letter-spacing: 0.2ex;
+}
+a.active-section {
+  /* border: 1px #eee solid !important; */
+  color: black !important;
+  background-color: orange !important;
+}
+#section-1,
+#section-legal-notice,
+#section-privacy-policy {
+  margin-top: 4.7em;
+}
+
+/* lang-select */
+
+#lang-select {
+  margin: 0;
+  padding: 0;
+}
+#lang-select span {
+  font-size: small;
+}
+#lang-select a {
+  text-decoration: none;
+}
+
+/* sections */
+
+section {
+  padding: 1ex 0;
+}
+section > div {
+  background-color: AntiqueWhite;
+  border: 1px sienna solid;
+  border-radius: 0.5em;
+}
+
+/* footer */
+
+#footer {
+  background-color: #eee !important;
+  background-image: none !important;
+  margin-top: 2em;
+  border-top: 1px sienna solid;
+}
+#footer > div {
+  margin: 0;
+  padding: 0.5ex;
+  text-align: center;
+}
+#footer > div > span {
+  font-size: small;
+}
+
+
+/* print */
+
+@media print {
+  html, body {
+    background-color: white !important;
+    background-image: none !important;
+    color: black;
+  }
+  section,
+  section > div,
+  #section-1 {
+    background-color: white;
+    border: none;
+    padding: 0;
+    margin: 0;
+  }
+
+}

@@ -1,0 +1,243 @@
+/* by Klaus Schneider, Internet Design, Hamburg Berlin */
+
+/*
+header, section, footer, main, nav, aside { border: 1px white dashed; }
+div { border: 1px white dotted; }
+*/
+*, html, html *, body {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+html, body {
+  font-family: 'Liberation Sans', 'Liberation-Sans', Helvetica, Arial, 'sans-serif';
+  /* line-height: 1.5; */
+  line-height: normal;
+  padding: 0;
+  margin: 0;
+}
+.skin {
+  background-color: #eee;
+  color: black;
+}
+.skin-colored {
+  background-color: sienna;
+  color: white;
+}
+a { color: sienna; }
+a:hover { color: orange; }
+
+@media (max-width: 767px) {                  
+  .hide-xs { display: none; }
+  .invisible-xs { visibility: hidden; }
+}
+@media (max-width: 992px) {                  
+  .hide-sm { display: none; }
+  .invisible-sm { visibility: hidden; }
+}
+@media (max-width: 1200px) {                  
+  .hide-md { display: none; }
+  .invisible-md { visibility: hidden; }
+}
+
+header, section, footer, main {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.page-width {
+  width: 100%;
+  max-width: 90ex;
+  margin: 0 auto;
+}
+.container {
+  padding: 1em;
+}
+
+section {
+  clear: both;
+}
+
+p, ul, ol {
+  margin: 0.7em 0;
+}
+
+h1 {
+  font-size: x-large;
+  font-weight: bold;
+  margin: 0.75em 0;
+}
+h2,
+h2.list-heading {
+  font-size: large;
+  font-weight: bold;
+  margin: 1.25em 0 0.5em 0;
+}
+
+h1.title {
+  font-size: xx-large;
+  text-align: center;
+  margin: 0.75em 0 0 0;
+}
+h2.subtitle {
+  font-size: large;
+  font-weight: normal;
+  text-align: center;
+  margin: 0 0 2em 0;
+}
+p.list-heading {
+  font-weight: bold;
+  margin: 1.25em 0 0.5em 0;
+}
+
+.intro {
+  font-size: large;
+  text-align: center;
+}
+img.intro {
+  width: 100%;
+  margin: 0 auto;
+}
+
+li {
+  margin-bottom: 0.7em;
+}
+
+ul.with-headings-h2 li,
+ol.with-headings-h2 li {
+  font-size: large;
+  font-weight: bold;
+}
+ul.with-headings-h2 h2,
+ol.with-headings-h2 h2 {
+  font-size: large;
+  margin: 0 0 0.25em 0;
+}
+ul.with-headings-h2 p,
+ol.with-headings-h2 p {
+  font-size: medium;
+  font-weight: normal;
+  /* line-height: 1.5; */
+  line-height: normal;
+  margin: 0 0 1em 0;
+}
+ul.links li {
+  margin: 0;
+}
+ol.decimal-with-parentheses {
+  counter-reset: list;
+}
+ol.decimal-with-parentheses > li {
+  list-style: none;
+  position: relative;
+}
+ol.decimal-with-parentheses > li:before {
+  content: counter(list, decimal) ") ";
+  counter-increment: list;
+  position: absolute;
+  left: -1.5em;
+}
+
+a.btn {
+  color: white;
+  background-color: sienna;
+  border-color: sienna;
+  border-width: thin;
+  border-style: solid;
+  padding: 0.7ex 0.5em;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: medium;
+  white-space: nowrap;
+}
+a.btn:hover {
+  background-color: orange;
+}
+.round {
+  border-radius: 0.5em;
+}
+
+
+/* .get-mail-address */
+
+#get-mail-address {
+  width: 100%;
+  height: 2em;
+  outline: none;
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+
+/* go-to-top-btn */
+
+#go-to-top-btn {
+  display: none;
+  position: fixed;
+  bottom: 2em;
+  right: 1.5em;
+  z-index: 98;
+  font-size: small;
+  font-weight: bold;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  color: black;
+  cursor: pointer;
+  padding: 0.5ex;
+  border-radius: 2ex;
+}
+#go-to-top-btn:hover {
+  background-color: transparent;
+}
+
+/* custom go-to-top */
+
+/* go-to-top */
+
+#go-to-top-btn {
+  /* background-color: gray; */
+  color: sienna;
+}
+#go-to-top-btn:hover {
+  background-color: orange;
+  color: black;
+}
+
+
+/* print */
+
+@media print {
+  html, body {
+    padding: initial;
+    margin: initial;
+  }
+  @page {
+    margin: 1.5cm;
+  }
+  .no-print {
+    display: none;
+  }
+  h1, h2, h3, h4 {
+    page-break-after: avoid;
+  }
+  .page-width {
+    max-width: none;
+  }
+  .container {
+    padding: 0;
+  }
+  a[href]::after {
+    content: " <" attr(href) ">";
+    color: #888;
+    background-color: inherit;
+    font-style: italic;
+    size: 80%;
+  }
+  #go-to-top-btn {
+    display: none !important;
+  }
+}
+

@@ -1,0 +1,133 @@
+/* header-navbar-1 */
+
+#navbar {
+  /* overflow: hidden; */
+  /* transition: 0.4s; */
+  position: fixed;
+  top: 1em;
+  left: 0;
+  right: 0;
+  z-index: 99;
+  padding: 1.2em 1em 0.7em 1em;
+  border-radius: 0.5em;
+  box-shadow: 0 0.5ex 1ex 0 rgba(0,0,0,0.2);
+}
+#navbar #header-title {
+  /* transition: 0.4s; */
+  text-decoration: none;
+  font-size: x-large;
+  line-height: 1em;
+  white-space: nowrap;
+  padding: 0.2em 0.2em;
+}
+#navbar nav {
+  float: right;
+}
+#navbar #header-menu {
+  list-style-type: none;
+  margin: 0.25em 0 0 0;
+  padding: 3px 0;
+}
+#navbar #header-menu li {
+  font-size: medium;
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+#navbar #header-menu a {
+  font-size: medium;
+  text-decoration: none;
+  line-height: 1em;
+  margin: 0;
+  padding: 0.1em 0.2em;
+  border: none;
+  border-radius: 0.5ex;
+  white-space: nowrap;
+}
+@media screen and (max-width: 880px) {
+  #navbar {
+    /* padding: 0.2ex 1ex !important; */
+  }
+  #navbar #header-title {
+    font-size: small;
+  }
+  #navbar #header-menu {
+    margin: 0 !important;
+  }
+}
+@media screen and (max-width: 700px) {
+  #navbar #header-title {
+    display: none;
+  }
+}
+
+/* custom navbar */
+
+#navbar {
+  color: white;
+  background-color: sienna;
+}
+#navbar #header-title,
+#navbar #header-title:hover {
+  color: white;
+}
+#navbar #header-menu a {
+  color: white;
+  /* border: 1px sienna solid; */
+}
+#navbar #header-menu a:hover {
+  color: black;
+  background-color: orange;
+}
+
+
+/* lang-dropdown-lang */
+
+#lang-dropdown-btn {
+  padding: 0 0 0 3px;
+  margin: 0;
+  font-size: x-small;
+  border: none;
+  border-radius: 0.5ex;
+  cursor: pointer;
+}
+#lang-dropdown {
+  position: relative;
+  display: inline-block;
+}
+#lang-dropdown-content {
+  display: none;
+  position: absolute;
+  right: 0;
+  border-radius: 0.5em;
+  box-shadow: 0 0.5ex 1ex 0 rgba(0,0,0,0.2);
+  z-index: 100;
+  text-align: right;
+}
+#lang-dropdown-content a {
+  font-size: medium;
+  padding: 0.2em 0.5em;
+  text-decoration: none;
+  display: block;
+}
+#lang-dropdown:hover #lang-dropdown-content {
+  display: block;
+}
+
+/* custom lang-dropdown */
+
+#lang-dropdown-btn {
+  background-color: white;
+  color: sienna;
+}
+#lang-dropdown-content {
+  background-color: sienna;
+}
+#lang-dropdown-content a {
+  color: white;
+}
+#lang-dropdown-content a:hover,
+#lang-dropdown:hover #lang-dropdown-btn {
+  background-color: orange;
+}
+
