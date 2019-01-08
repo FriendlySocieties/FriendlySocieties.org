@@ -5,12 +5,12 @@ Friendly Societies
 
 #### Table of contents
 
-  * [Ideals]()
-  * [Structure]()
-  * [Rules]()
-  * [Further opportunities and projects]()
-  * [Notes]()
-  * [How can I join?]()
+  * [Ideals](#ideals)
+  * [Structure](#structure)
+  * [Rules](#rules)
+  * [Further opportunities and projects](#further-opportunities-and-projects)
+  * [Notes](#notes)
+  * [How can I join?](#how-can-i-coin)
 
 
 # Ideals
