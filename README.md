@@ -5,12 +5,12 @@ Friendly Societies
 
 #### Table of contents
 
-  * [Ideals]
-  * [Structure]
-  * [Rules]
-  * [Further opportunities and projects]
-  * [Notes]
-  * [How can I join?]
+  * [Ideals]()
+  * [Structure]()
+  * [Rules]()
+  * [Further opportunities and projects]()
+  * [Notes]()
+  * [How can I join?]()
 
 
 # Ideals
@@ -117,7 +117,6 @@ Much of what we do was inspired by [Artabana](http://www.artabana.ch/) (healthca
 
 You can write to the nearest community and ask if there is still space and if they are interested in taking you on as a member. If you don't have a community near you, then please feel free to start your own and we shall find an alliance for you.
 
-$~$
   
 ©[FriendlySocieties.org](https://friendlysocieties.org) – Version 2018-12-28
 
