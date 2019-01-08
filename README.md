@@ -10,7 +10,7 @@ Friendly Societies
   * [Rules](#rules)
   * [Further opportunities and projects](#further-opportunities-and-projects)
   * [Notes](#notes)
-  * [How can I join?](#how-can-i-coin)
+  * [How can I join?](#how-can-i-join)
 
 
 # Ideals
