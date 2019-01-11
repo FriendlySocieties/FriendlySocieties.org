@@ -103,7 +103,7 @@ Diese Regeln stellen den aktuellen Stand dar. Gesellschaftliche Rahmenbedingunge
 
 #### Provident Fund
 
-  * An der Möglichkeit für einen freiwilligen Sparplan für Altersvorsorge und Gesundheit (ähnlich dem CPF in Singapur) wird gearbeitet.
+  * An der Möglichkeit für einen freiwilligen Sparplan für Altersvorsorge und Gesundheit wird gearbeitet.
 
 
 # Hinweise

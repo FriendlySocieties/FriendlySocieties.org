@@ -103,7 +103,7 @@ Estas normas representan el estado actual. Las condiciones sociales pueden cambi
 
 #### Provident Fund
 
-  * Se está trabajando en la posibilidad de un plan de ahorro voluntario de pensiones y de salud (similar al CPF en Singapur).
+  * Se está trabajando en la posibilidad de un plan de ahorro voluntario de pensiones y de salud.
 
 
 # Indicaciones

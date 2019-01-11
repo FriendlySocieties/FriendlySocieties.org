@@ -103,7 +103,7 @@ These rules present the current state of affairs.  The societal framework can c
 
 #### Provident Fund
 
-  * We are working on a voluntary savings plan for retirement funds and healthcare (which is similar to the CPF in Singapore).
+  * We are working on a voluntary savings plan for retirement funds and healthcare.
 
 
 # Notes

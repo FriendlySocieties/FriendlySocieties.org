@@ -103,7 +103,7 @@ Ces règles représentent le statut actuel. Les conditions sociales peuvent chan
 
 #### Provident Fund
 
-  * Des études sont en cours sur la possibilité d'un plan d'épargne volontaire pour la prévoyance vieillesse et les soins de santé (similaire au CPF de Singapour).
+  * Des études sont en cours sur la possibilité d'un plan d'épargne volontaire pour la prévoyance vieillesse et les soins de santé.
 
 
 # Indications
