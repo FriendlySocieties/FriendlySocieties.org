@@ -202,7 +202,7 @@ To make it clear again, the lines do **not** show the contribution amount at eac
 The fees to the mutual health insurance presented here will be significantly lower because of the limitation to a minimum level of care, because a clear deductible is provided for and because only cases of illness that pose a financial risk are covered. However, this does not change the total costs which the participants have to bear in the form of their own payment, deductible, contributions, and aging reserve.
 
 The cost of illness could still increase significantly due to ever more expensive new treatment options and, above all, increasing life expectancy[^11] ... On the other hand, a more efficient health care system could also significantly reduce costs due to **more competition and personal responsibility**, new breakthroughs in cancer treatment, cheaper screening examinations using MRI and artificial intelligence and bla bla bla who knows what...  
-The assessment of the longer-term prospects does not play a role for the mutual health insurance presented here since the premiums dynamically correspond to the costs of the recent history (cases of illness occurring in the past x years) as well as the needs and approval culture of the group.
+The assessment of the longer-term prospects does not play a role for the mutual health insurance presented here since the premiums dynamically correspond to the costs of the recent history (cases of illness occurring in the past x years with a minimum defined by an insurance actuary) as well as the needs and approval culture of the group.
 
 There is already [Artabana](http://www.artabana.ch/), a similar self-governing mutual Health Insurance System[^12].
 
@@ -229,7 +229,7 @@ This is the subject of a separate document.
 ## Weblinks
 
   * [North Bay Societies](https://www.northbaysocieties.org)
-  * [North Bay Help](https://www.northbay.help)
+  * [Friendly Liberland](https://www.friendlyliberland.org)
   * [Homo Socialis](https://www.homosocialis.org)
 
 

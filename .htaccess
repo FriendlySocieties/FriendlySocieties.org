@@ -1,6 +1,6 @@
-SSLOptions +StrictRequire
-SSLRequireSSL
-ErrorDocument 403 https://%{HTTP_HOST}%{REQUEST_URI}
+# SSLOptions +StrictRequire
+# SSLRequireSSL
+# ErrorDocument 403 https://%{HTTP_HOST}%{REQUEST_URI}
 
 # AuthType Basic
 # AuthName "Enter the username and password."
@@ -22,3 +22,29 @@ php_value docref_ext 0
 # php_value error_log /full/path/to/file/php_errors.log
 php_value error_reporting -1
 # php_value log_errors_max_len 0
+
+
+
+<IfModule mod_headers.c>
+Header set Connection keep-alive
+  #<filesMatch "*">
+    Header set Cache-Control "max-age=7200, must-revalidate"
+  #</filesMatch>
+
+  <filesMatch "\.(eot|svg|ttf|woff|woff2)$">
+    Header set Cache-Control "max-age=1209600, public"
+  </filesMatch>
+
+  <filesMatch "\.(jpg|jpeg|png|gif|svg|tif|tiff|ico|flv|swf)$">
+    Header set Cache-Control "max-age=86400, public"
+  </filesMatch>
+
+  <filesMatch "\.(css|js)$">
+    Header set Cache-Control "max-age=86400, public, must-revalidate"
+  </filesMatch>
+
+  <filesMatch "\.(html|htm|xml|txt|md|pdf)$">
+    Header set Cache-Control "max-age=7200, must-revalidate"
+  </filesMatch>
+
+</IfModule>

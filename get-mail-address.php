@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8" />
-  <title>Friendly Societies</title>
+  <title>Friendly Societies - Social security through community</title>
   <meta name="robots" content="noindex, nofollow" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <link rel="icon" href="favicon.png" type="image/png" />

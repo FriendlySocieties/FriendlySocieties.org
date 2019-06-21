@@ -20,6 +20,7 @@ Notre motivation est l'entraide en cas d'urgence, basée sur les idéaux communs
   * Suite à un choix libre et personnel, des personnes adultes et responsables se réunissent en communauté.
   * Cette communauté électorale constitue le cadre dans lequel l'action commune est pratiquée et vécue sous l'impulsion individuelle.
   * On manifeste un véritable et vif un intérêt pour ses semblables.
+  * Nous nous promettons la fiabilité. Nous nous promettons une honnêteté absolue.
   * La communauté respecte les différences et la souveraineté de chacun, protège la vie privée et respecte la propriété privée ainsi que les différentes situations financières.
   * Chaque individu reconnaît les objectifs de la Communauté et contribue à leur réalisation.
   * Nous nous entraidons dans les situations d'urgence et de vie difficile, dans l'amélioration de nos conditions de vie et nous nous nous soutenons dans la vie quotidienne.

@@ -1,7 +1,7 @@
 Friendly Societies
 ==================
 
-"Friendly Societies" is a worldwide alliance of small communities committed to providing mutual support in emergencies. It is based on the principles of personal responsibility, trust and voluntary solidarity.
+We, the "Friendly Societies", are a worldwide alliance of small communities committed to providing mutual support in emergencies. It is based on the principles of personal responsibility, trust and voluntary solidarity.
 
 #### Table of contents
 
@@ -20,6 +20,7 @@ Our goal is mutual assistance in emergencies, based on the following shared idea
   * Responsible, conscientious individuals are united in one community through personal choice.
   * This electoral community creates a framework for implementing and practising community action with a distinct momentum.
   * Individuals show genuine and insightful concern about their fellow man.
+  * We promise each other reliability. We promise each other absolute honesty.
   * The community recognizes the individuality and sovereignty of its members, protecting privacy and respecting private ownership, as well as different financial circumstances.
   * Everyone fully understands the goals of the community and contributes to their implementation.
   * We help each other in emergencies and difficult life events, improving living conditions and supporting one another during our personal journeys.

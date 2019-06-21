@@ -20,6 +20,7 @@ Nuestra motivación es la ayuda mutua en situaciones de emergencia, basada en lo
   * A partir de una libre decisión personal se pueden reunir personas maduras y responsables en una comunidad.
   * Esta comunidad electoral constituye el marco en el cual la acción comunitaria se practica y se vive a partir de un impulso individual.
   * Se comparte un interés vivo y verdadero hacia el prójimo.
+  * Nos prometemos confiabilidad. Nos prometemos honestidad absoluta.
   * La comunidad respeta la diversidad y soberanía individual de cada uno, protege la privacidad y respeta la propiedad privada, así como las diferentes situaciones económicas.
   * El individuo reconoce los objetivos de la comunidad y contribuye a su implementación.
   * Nos ayudamos mutuamente en situaciones críticas y difíciles de la vida, mediante  mejorar las condiciones de vida y entre nosotros somos un apoyo en el trayecto de la vida de cada miembro.

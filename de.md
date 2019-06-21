@@ -1,7 +1,7 @@
 Friendly Societies
 ==================
 
-"Friendly Societies" ist ein weltweites Bündnis aus kleinen Gemeinschaften zur gegenseitigen Unterstützung in Notlagen. Es basiert auf Eigenverantwortung, Vertrauen und freiwilliger Solidarität.
+Wir, die "Friendly Societies", sind ein weltweites Bündnis aus kleinen Gemeinschaften zur gegenseitigen Unterstützung in Notlagen. Es basiert auf Eigenverantwortung, Vertrauen und freiwilliger Solidarität.
 
 #### Inhaltsverzeichnis
 
@@ -20,6 +20,7 @@ Unsere Motivation ist die gegenseitige Hilfe in Notlagen, basierend auf folgende
   * Aus einer freien, persönlichen Entscheidung heraus finden sich mündige, verantwortungsbewusste Menschen in einer Gemeinschaft zusammen.
   * Diese Wahlgemeinschaft bildet den Rahmen in dem gemeinschaftliches Handeln aus einem individuellen Impuls heraus geübt und gelebt wird.
   * Man bringt ein wahres und waches Interesse an seinen Mitmenschen mit.
+  * Wir versprechen einander Verlässlichkeit. Wir versprechen einander absolute Ehrlichkeit.
   * Die Gemeinschaft achtet die individuelle Andersartigkeit und Souveränität jedes Einzelnen, schützt die Privatsphäre und respektiert Privateigentum sowie unterschiedliche Vermögensverhältnisse.
   * Der Einzelne erkennt die Ziele der Gemeinschaft an und trägt zu deren Umsetzung bei.
   * Wir helfen uns in Notlagen und schwierigen Lebenssituationen, bei der Verbesserung von Lebensbedingungen und sind uns Unterstützung beim persönlichen Lebensweg.

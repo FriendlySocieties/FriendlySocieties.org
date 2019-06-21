@@ -202,7 +202,7 @@ Um es nochmal zu verdeutlichen, die Linien zeigen **nicht** die Beitragshöhe in
 Die Beiträge bei der hier vorgestellten Krankenversicherung auf Gegenseitigkeit werden deutlich geringer sein, wegen der Beschränkung auf eine Mindestversorgung, weil eine deutliche Selbstbeteiligung vorgesehen ist und weil auch nur Krankheitsfälle abgedeckt werden die ein finanzielles Risiko darstellen. Das ändert aber nichts an den Gesamtkosten welche auf die Teilnehmer in Form von Eigenleistung, Selbstbeteiligung, Beiträge, Alterungsrückstellung in Summe zukommen.
 
 Die Krankheitskosten könnten auf Grund von immer teureren neuen Behandlungsmöglichkeiten sowie vor allem steigender Lebenserwartung[^11] noch deutlich zunehmen... Andererseits könnte ein effizienteres Gesundheitssystem auf Grund von **mehr Wettbewerb und Eigenverantwortung**, neue Durchbrüche in der Krebsbehandlung, preiswert gewordene Vorsorgeuntersuchungen mittels MRT und künstlicher Intelligenz und bla bla wer weiß was ... die Kosten auch deutlich senken.  
-Für die hier vorgestellte Krankenversicherung auf Gegenseitigkeit spielt die Einschätzung der längerfristigen Zukunft keine Rolle, da die Beiträge dynamisch den Kosten der näheren Vergangenheit (in den vergangenen x Jahren eingetretenen Krankheitsfällen) sowie den Bedürfnissen und der Bewilligungskultur der Gruppe entsprechen.
+Für die hier vorgestellte Krankenversicherung auf Gegenseitigkeit spielt die Einschätzung der längerfristigen Zukunft keine Rolle, da die Beiträge dynamisch den Kosten der näheren Vergangenheit (in den vergangenen x Jahren eingetretenen Krankheitsfällen mit Mindestvorgabe durch einen Versicherungs-Aktuar) sowie den Bedürfnissen und der Bewilligungskultur der Gruppe entsprechen.
 
 [Artabana](http://www.artabana.ch/), ein ähnliches selbstverwaltetes Krankenversicherungssystem auf Gegenseitigkeit funktioniert[^12] bereits.
 
@@ -229,7 +229,7 @@ Dies ist Thema eines eigenen Dokuments.
 ## Weblinks
 
   * [North Bay Societies](https://www.northbaysocieties.org)
-  * [North Bay Help](https://www.northbay.help)
+  * [Friendly Liberland](https://www.friendlyliberland.org)
   * [Homo Socialis](https://www.homosocialis.org)
 
 
